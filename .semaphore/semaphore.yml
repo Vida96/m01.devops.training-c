@@ -29,5 +29,4 @@ blocks:
             - make lint
         - name: Unit tests
           commands:
-            - make test
-            - make test
+            - 'make test '
